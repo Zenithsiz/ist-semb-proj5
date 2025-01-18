@@ -1,0 +1,199 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="444" height="276">
+	<defs>
+		<linearGradient id="XKuKxPbTAZnf" x1="0px" x2="32px" y1="0px" y2="0px"
+			gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#807f7f" />
+			<stop offset="1" stop-color="#807f7f" />
+		</linearGradient>
+		<linearGradient id="DHuWZtrfsLzO" x1="0px" x2="32px" y1="0px" y2="0px"
+			gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#807f7f" />
+			<stop offset="1" stop-color="#807f7f" />
+		</linearGradient>
+		<linearGradient id="kxWlZFERIgBt" x1="0px" x2="32px" y1="0px" y2="0px"
+			gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#807f7f" />
+			<stop offset="1" stop-color="#807f7f" />
+		</linearGradient>
+		<linearGradient id="znZvGKgdxbBL" x1="0px" x2="32px" y1="0px" y2="0px"
+			gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#807f7f" />
+			<stop offset="1" stop-color="#807f7f" />
+		</linearGradient>
+		<linearGradient id="UlkMrbrdUklP" x1="0px" x2="32px" y1="0px" y2="0px"
+			gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#807f7f" />
+			<stop offset="1" stop-color="#807f7f" />
+		</linearGradient>
+	</defs>
+	<g>
+		<rect fill="#000000" stroke="none" x="0" y="0" width="444" height="276" />
+		<g transform="scale(1,1) translate(-58,-78)">
+			<path fill="none" stroke="#807f7f" paint-order="fill stroke markers"
+				d=" M 128 176 L 128 192" stroke-linecap="round" stroke-miterlimit="10"
+				stroke-width="3" stroke-dasharray="" />
+			<path fill="none" stroke="#807f7f" paint-order="fill stroke markers"
+				d=" M 138 192 L 118 192" stroke-linecap="round" stroke-miterlimit="10"
+				stroke-width="3" stroke-dasharray="" />
+			<path fill="none" stroke="#807f7f" paint-order="fill stroke markers"
+				d=" M 134 197 L 122 197" stroke-linecap="round" stroke-miterlimit="10"
+				stroke-width="3" stroke-dasharray="" />
+			<path fill="none" stroke="#807f7f" paint-order="fill stroke markers"
+				d=" M 130 202 L 126 202" stroke-linecap="round" stroke-miterlimit="10"
+				stroke-width="3" stroke-dasharray="" />
+			<g>
+				<g>
+					<text fill="#ffffff" stroke="none" font-family="sans-serif" font-size="14px"
+						font-style="normal" font-weight="normal" text-decoration="normal" x="432"
+						y="128" text-anchor="middle" dominant-baseline="central">out</text>
+				</g>
+				<path fill="none" stroke="#807f7f" paint-order="fill stroke markers"
+					d=" M 432 176 L 432 145" stroke-linecap="round" stroke-miterlimit="10"
+					stroke-width="3" stroke-dasharray="" />
+			</g>
+			<path fill="none" stroke="#807f7f" paint-order="fill stroke markers"
+				d=" M 128 176 L 160 176" stroke-linecap="round" stroke-miterlimit="10"
+				stroke-width="3" stroke-dasharray="" />
+			<path fill="none" stroke="#807f7f" paint-order="fill stroke markers"
+				d=" M 192 176 L 224 176" stroke-linecap="round" stroke-miterlimit="10"
+				stroke-width="3" stroke-dasharray="" />
+			<g transform="matrix(1,0,0,1,160,176)">
+				<rect fill="none" stroke="url(#XKuKxPbTAZnf)" x="0" y="-6" width="32" height="12"
+					stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"
+					stroke-dasharray="" />
+			</g>
+			<text fill="#ffffff" stroke="none" font-family="sans-serif" font-size="12px"
+				font-style="normal" font-weight="normal" text-decoration="normal" x="170" y="166"
+				text-anchor="start" dominant-baseline="alphabetic">R</text>
+			<path fill="none" stroke="#807f7f" paint-order="fill stroke markers"
+				d=" M 224 176 L 224 208" stroke-linecap="round" stroke-miterlimit="10"
+				stroke-width="3" stroke-dasharray="" />
+			<path fill="none" stroke="#807f7f" paint-order="fill stroke markers"
+				d=" M 224 240 L 224 272" stroke-linecap="round" stroke-miterlimit="10"
+				stroke-width="3" stroke-dasharray="" />
+			<g transform="matrix(0,1,-1,0,224,208)">
+				<rect fill="none" stroke="url(#DHuWZtrfsLzO)" x="0" y="-6" width="32" height="12"
+					stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"
+					stroke-dasharray="" />
+			</g>
+			<text fill="#ffffff" stroke="none" font-family="sans-serif" font-size="12px"
+				font-style="normal" font-weight="normal" text-decoration="normal" x="234" y="230"
+				text-anchor="start" dominant-baseline="alphabetic">R</text>
+			<path fill="none" stroke="#807f7f" paint-order="fill stroke markers"
+				d=" M 272 176 L 272 208" stroke-linecap="round" stroke-miterlimit="10"
+				stroke-width="3" stroke-dasharray="" />
+			<path fill="none" stroke="#807f7f" paint-order="fill stroke markers"
+				d=" M 272 240 L 272 272" stroke-linecap="round" stroke-miterlimit="10"
+				stroke-width="3" stroke-dasharray="" />
+			<g transform="matrix(0,1,-1,0,272,208)">
+				<rect fill="none" stroke="url(#kxWlZFERIgBt)" x="0" y="-6" width="32" height="12"
+					stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"
+					stroke-dasharray="" />
+			</g>
+			<text fill="#ffffff" stroke="none" font-family="sans-serif" font-size="12px"
+				font-style="normal" font-weight="normal" text-decoration="normal" x="282" y="230"
+				text-anchor="start" dominant-baseline="alphabetic">R/2</text>
+			<path fill="none" stroke="#807f7f" paint-order="fill stroke markers"
+				d=" M 320 176 L 320 208" stroke-linecap="round" stroke-miterlimit="10"
+				stroke-width="3" stroke-dasharray="" />
+			<path fill="none" stroke="#807f7f" paint-order="fill stroke markers"
+				d=" M 320 240 L 320 272" stroke-linecap="round" stroke-miterlimit="10"
+				stroke-width="3" stroke-dasharray="" />
+			<g transform="matrix(0,1,-1,0,320,208)">
+				<rect fill="none" stroke="url(#znZvGKgdxbBL)" x="0" y="-6" width="32" height="12"
+					stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"
+					stroke-dasharray="" />
+			</g>
+			<text fill="#ffffff" stroke="none" font-family="sans-serif" font-size="12px"
+				font-style="normal" font-weight="normal" text-decoration="normal" x="330" y="230"
+				text-anchor="start" dominant-baseline="alphabetic">R/4</text>
+			<path fill="none" stroke="#807f7f" paint-order="fill stroke markers"
+				d=" M 368 176 L 368 208" stroke-linecap="round" stroke-miterlimit="10"
+				stroke-width="3" stroke-dasharray="" />
+			<path fill="none" stroke="#807f7f" paint-order="fill stroke markers"
+				d=" M 368 240 L 368 272" stroke-linecap="round" stroke-miterlimit="10"
+				stroke-width="3" stroke-dasharray="" />
+			<g transform="matrix(0,1,-1,0,368,208)">
+				<rect fill="none" stroke="url(#UlkMrbrdUklP)" x="0" y="-6" width="32" height="12"
+					stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"
+					stroke-dasharray="" />
+			</g>
+			<text fill="#ffffff" stroke="none" font-family="sans-serif" font-size="12px"
+				font-style="normal" font-weight="normal" text-decoration="normal" x="378" y="230"
+				text-anchor="start" dominant-baseline="alphabetic">R/8</text>
+			<path fill="none" stroke="#807f7f" paint-order="fill stroke markers"
+				d=" M 224 176 L 272 176" stroke-linecap="round" stroke-miterlimit="10"
+				stroke-width="3" stroke-dasharray="" />
+			<text fill="#ffffff" stroke="none" font-family="sans-serif" font-size="12px"
+				font-style="normal" font-weight="normal" text-decoration="normal" x="248" y="170"
+				text-anchor="start" dominant-baseline="alphabetic"></text>
+			<path fill="none" stroke="#807f7f" paint-order="fill stroke markers"
+				d=" M 272 176 L 320 176" stroke-linecap="round" stroke-miterlimit="10"
+				stroke-width="3" stroke-dasharray="" />
+			<text fill="#ffffff" stroke="none" font-family="sans-serif" font-size="12px"
+				font-style="normal" font-weight="normal" text-decoration="normal" x="296" y="170"
+				text-anchor="start" dominant-baseline="alphabetic"></text>
+			<path fill="none" stroke="#807f7f" paint-order="fill stroke markers"
+				d=" M 320 176 L 368 176" stroke-linecap="round" stroke-miterlimit="10"
+				stroke-width="3" stroke-dasharray="" />
+			<text fill="#ffffff" stroke="none" font-family="sans-serif" font-size="12px"
+				font-style="normal" font-weight="normal" text-decoration="normal" x="344" y="170"
+				text-anchor="start" dominant-baseline="alphabetic"></text>
+			<path fill="none" stroke="#807f7f" paint-order="fill stroke markers"
+				d=" M 368 176 L 432 176" stroke-linecap="round" stroke-miterlimit="10"
+				stroke-width="3" stroke-dasharray="" />
+			<text fill="#ffffff" stroke="none" font-family="sans-serif" font-size="12px"
+				font-style="normal" font-weight="normal" text-decoration="normal" x="400" y="170"
+				text-anchor="start" dominant-baseline="alphabetic"></text>
+			<g>
+				<g>
+					<text fill="#ffffff" stroke="none" font-family="sans-serif" font-size="20px"
+						font-style="normal" font-weight="bold" text-decoration="normal" x="224"
+						y="304" text-anchor="middle" dominant-baseline="central">L</text>
+				</g>
+				<path fill="none" stroke="#807f7f" paint-order="fill stroke markers"
+					d=" M 224 272 L 224 292" stroke-linecap="round" stroke-miterlimit="10"
+					stroke-width="3" stroke-dasharray="" />
+			</g>
+			<g>
+				<g>
+					<text fill="#ffffff" stroke="none" font-family="sans-serif" font-size="20px"
+						font-style="normal" font-weight="bold" text-decoration="normal" x="272"
+						y="304" text-anchor="middle" dominant-baseline="central">L</text>
+				</g>
+				<path fill="none" stroke="#807f7f" paint-order="fill stroke markers"
+					d=" M 272 272 L 272 292" stroke-linecap="round" stroke-miterlimit="10"
+					stroke-width="3" stroke-dasharray="" />
+			</g>
+			<g>
+				<g>
+					<text fill="#ffffff" stroke="none" font-family="sans-serif" font-size="20px"
+						font-style="normal" font-weight="bold" text-decoration="normal" x="320"
+						y="304" text-anchor="middle" dominant-baseline="central">L</text>
+				</g>
+				<path fill="none" stroke="#807f7f" paint-order="fill stroke markers"
+					d=" M 320 272 L 320 292" stroke-linecap="round" stroke-miterlimit="10"
+					stroke-width="3" stroke-dasharray="" />
+			</g>
+			<g>
+				<g>
+					<text fill="#ffffff" stroke="none" font-family="sans-serif" font-size="20px"
+						font-style="normal" font-weight="bold" text-decoration="normal" x="368"
+						y="304" text-anchor="middle" dominant-baseline="central">L</text>
+				</g>
+				<path fill="none" stroke="#807f7f" paint-order="fill stroke markers"
+					d=" M 368 272 L 368 292" stroke-linecap="round" stroke-miterlimit="10"
+					stroke-width="3" stroke-dasharray="" />
+			</g>
+			<path fill="#ffffff" stroke="none" paint-order="stroke fill markers"
+				d=" M 227 176 A 3 3 0 1 1 226.99973922528991 175.96044522459943 Z" />
+			<path fill="#ffffff" stroke="none" paint-order="stroke fill markers"
+				d=" M 275 176 A 3 3 0 1 1 274.99973922528994 175.96044522459943 Z" />
+			<path fill="#ffffff" stroke="none" paint-order="stroke fill markers"
+				d=" M 323 176 A 3 3 0 1 1 322.99973922528994 175.96044522459943 Z" />
+			<path fill="#ffffff" stroke="none" paint-order="stroke fill markers"
+				d=" M 371 176 A 3 3 0 1 1 370.99973922528994 175.96044522459943 Z" />
+		</g>
+	</g>
+</svg>
