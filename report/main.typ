@@ -59,6 +59,8 @@ We only had 2 types of resistors available, 11 kΩ ±5% and 1.5 kΩ ±5%, in rel
 	caption: [Setup],
 ) <setup>
 
+Finally, we hooked up the output to an oscilloscope.
+
 #pagebreak()
 
 = Experiment
