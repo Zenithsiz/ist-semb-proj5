@@ -42,16 +42,24 @@ For the setup, since our system doesn't have an internal DAC, we had to build an
 We decided on a 4-bit DAC using the following design, shown in @setup-circuit:
 
 #figure(
-	image("images/setup-circuit.svg", width: 80%),
+	image("images/setup-circuit.svg", width: 50%),
 	caption: [Setup circuit],
 ) <setup-circuit>
+
+This DAC takes in 4 logical inputs, with levels 0V and 3.3V in our case.
+These will be hooked up to GPIO pins 2 through 6, inclusive.
+GPIO2 will be assigned to the lowest-order bit of the output value, while GPIO5 will be assigned to the highest-order bit.
+
+Since we have 4 pins, our DAC will have $2^4 = 16$ levels, from $0V$ to $3.3 V times (1/2 + 1/4 + 1/8 + 1/16) = 3.09375 V$
 
 We only had 2 types of resistors available, 11 kΩ ±5% and 1.5 kΩ ±5%, in relatively limited quantity, but we managed to find combinations of resistors to implement the circuit, as shown in @setup:
 
 #figure(
-	image("images/setup.jpg", width: 80%),
+	image("images/setup.jpg", width: 50%),
 	caption: [Setup],
 ) <setup>
+
+#pagebreak()
 
 = Experiment
 
