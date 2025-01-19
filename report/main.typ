@@ -46,7 +46,7 @@ We decided on a 4-bit DAC using the following design, shown in @setup-circuit:
 	caption: [Setup circuit],
 ) <setup-circuit>
 
-We only had 2 types of resistors available, 11 kΩ ±5% and 1.5 kΩ ±5%, in relatively limited quantity, so we had to be creative to implement the circuit.
+We only had 2 types of resistors available, 11 kΩ ±5% and 1.5 kΩ ±5%, in relatively limited quantity, but we managed to find combinations of resistors to implement the circuit, as shown in @setup:
 
 #figure(
 	image("images/setup.jpg", width: 80%),
@@ -76,18 +76,20 @@ For this test, we simply ran the following `test1` function, shown in @test1-cod
 After running it, we saw the following on the oscilloscope, in @test1-output:
 
 #figure(
-	image("images/test1.jpg", width: 80%),
+	image("images/test1.jpg", width: 50%),
 	caption: [Test 1 output],
 ) <test1-output>
 
 As we expected, we see a sawtooth wave, with a period of $160 "ms"$, a total of 16 steps, and thus each step takes $10 "ms"$.
+
+#pagebreak()
 
 == Test 2
 
 For this test, we varied the timing from $10 "ms"$ to $20 "ms"$, and saw the following output on the oscilloscope, in @test2-output:
 
 #figure(
-	image("images/test2.jpg", width: 80%),
+	image("images/test2.jpg", width: 50%),
 	caption: [Test 2 output],
 ) <test2-output>
 
@@ -97,17 +99,20 @@ As we expected, we see a period of $320 "ms"$.
 
 For this test, we simply ran the following `test3` function, shown in @test3-code:
 
-#codly.codly(
-	ranges: ((27, 49), (51, 51), (59, 59)),
-	smart-skip: (first: false, last: false, rest: true),
-	highlights: (
-		(line: 59, start: 3, end: 4, fill: red),
-	),
-)
-#code_figure(
-	raw(main_src, lang: "c", block: true),
-	caption: [Test 3 code]
-) <test3-code>
+#[
+	#show figure: set block(breakable: true)
+	#codly.codly(
+		ranges: ((27, 49), (51, 51), (59, 59)),
+		smart-skip: (first: false, last: false, rest: true),
+		highlights: (
+			(line: 59, start: 3, end: 4, fill: red),
+		),
+	)
+	#code_figure(
+		raw(main_src, lang: "c", block: true),
+		caption: [Test 3 code]
+	) <test3-code>
+]
 
 We ran it, but unfortunately, the photo of the oscilloscope was corrupted.
 
